@@ -1,8 +1,8 @@
-# Peliculaspp
+# PeliculasApp
 
 Éste proyecto corresponde a la séptima app que desarrollé a través del curso de `Angular: de cero a experto` de Fernando Herrera en Udemy. Es una página conectada a la API de _The Movie Database_ (https://www.themoviedb.org/) que muestra los últimos estrenos cinematográficos y posee un buscador para encontrar la película que uno quiera, con información de la misma y su elenco.
 
-Se encuentra hecho con **Bootstrap** (versión 5.0.0-beta1) y **Angular CLI** (versión 11.0.4.). Para su instalación:
+Se encuentra hecho con **Bootstrap** (versión 5.0.0-beta1), **Swiper**(https://swiperjs.com/) y **Angular CLI** (versión 11.0.4.). Para su instalación:
 
 ```bash
 npm install -g @angular/cli
